@@ -1,4 +1,4 @@
-# EEE3096S
+# EEE3096S  Tlotlisang
 Practical content for EEE3096S Embedded Systems II Course at the University of Cape Town
 
 ## Prac 0
